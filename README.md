@@ -12,6 +12,6 @@
 
 需要以 iframe 的方式打开这个视频：
 
-点击这里编辑器工具栏中的 ![https://github.com/liangzai-cool/ckeditor-plugins-qqvideo/blob/gh-pages/qqvideo/images/icon.png?raw=true](https://github.com/liangzai-cool/ckeditor-plugins-qqvideo/blob/gh-pages/qqvideo/images/icon.png?raw=true) 按钮，输入 http://v.qq.com/x/page/v0327awcpoc.html ，点确定即可
+点击编辑器工具栏中的 ![https://github.com/liangzai-cool/ckeditor-plugins-qqvideo/blob/gh-pages/qqvideo/images/icon.png?raw=true](https://github.com/liangzai-cool/ckeditor-plugins-qqvideo/blob/gh-pages/qqvideo/images/icon.png?raw=true) 按钮，输入 http://v.qq.com/x/page/v0327awcpoc.html ，点确定即可
 
 你也可以进一步编辑该插件的源码，修改iframe的宽高，以适应你的需求
