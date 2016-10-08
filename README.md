@@ -1,13 +1,11 @@
 # Website
-http://xueliang.org/
+ http://xueliang.org/
 
 # Demo
-http://liangzai-cool.github.io/ckeditor-plugins-qqvideo/
-
-# ckeditor-plugins-qqvideo
-CKEDITOR插件，添加腾讯视频
+ http://liangzai-cool.github.io/ckeditor-plugins-qqvideo/
 
 # Introduce
+
 我在qq视频上传了一个视频，地址是：http://v.qq.com/x/page/v0327awcpoc.html
 
 如果想在其他网页或者微信公众号内容中，嵌入这个视频，直接以 <iframe src="http://v.qq.com/x/page/v0327awcpoc.html"></iframe> 肯定不行
