@@ -1,22 +1,22 @@
-CKEDITOR.plugins.setLang("qqvideo", "zh-cn", {
+CKEDITOR.plugins.setLang('qqvideo', 'zh-cn', {
   button:{
-    label: "腾讯视频"
+    label: '腾讯视频'
   },
   dialog: {
     main: {
-      title: "插入腾讯视频",
+      title: '插入腾讯视频',
       contents:[
         {
-          label:"腾讯视频",
-          title:"腾讯视频",
+          label:'腾讯视频',
+          title:'腾讯视频',
           elements: {
             url:{
-              label:"视频网址",
+              label:'视频网址',
               validate: {
-                notempty:"请输入视频网址"
+                notempty:'请输入视频网址'
               },
               commit:{
-                invalid:"无法识别出视频地址"
+                invalid:'无法识别出视频地址'
               }
             }
           }
